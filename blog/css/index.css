@@ -47,10 +47,11 @@
 #nav_img{
 	width: 240px;
 	height: 200px;
+	cursor: pointer;
 }
 #text{
 	width: 960px;
-	height: 200px;
+	height: 100px;
 }
 body{
 	background-color: #000000;
@@ -58,4 +59,21 @@ body{
 #crap{
 	color: #F0F8FF;
 	font-size: 20px;
+}
+#list{
+	height: 540px;
+	width: 960px;
+}
+#end{
+	width: 960px;
+	height: 100px;
+}
+#end_span{
+	/* align-items: center; */
+	color: aliceblue;
+	position: relative;
+	left: 35%;
+	height: 200px;
+	width: 960px;
+	top: 50px;
 }
